@@ -1,4 +1,4 @@
-<?php
+    <?php
 
 /*
  * clint shouldn't be force to implement unused things
